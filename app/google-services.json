@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175786783428",
+    "firebase_url": "https://mjstagram-318c8.firebaseio.com",
+    "project_id": "mjstagram-318c8",
+    "storage_bucket": "mjstagram-318c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175786783428:android:94de2dbb42d7fe19944f91",
+        "android_client_info": {
+          "package_name": "com.jkh.mjstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175786783428-81h0uhslhluhqlok0idkjt3jkksm5cld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkLHVa196Y1gR9DLuRH-FwNCPb2uxRBoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175786783428-81h0uhslhluhqlok0idkjt3jkksm5cld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "175786783428-c5cuaa1sh6m2cene6c524pqd5le6n89o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jkh.mjstagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
